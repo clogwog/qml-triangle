@@ -10,6 +10,6 @@ Or have it filled in when the button gets pushed.
 
 it looks like:
 
-![outline  fill=false](https://raw.github.com/clogwog/qml-triangle/master/screenshot_01.jpg)
+![outline  fill=false](screenshot_01.jpg)
 
-![solid fill=true](https://raw.github.com/clogwog/qml-triangle/master/screenshot_02.jpg)
+![solid fill=true](screenshot_02.jpg)
