@@ -10,6 +10,4 @@ Or have it filled in when the button gets pushed.
 
 it looks like:
 
-![outline  fill=false](screenshot_01.jpg)
-
-![solid fill=true](screenshot_02.jpg)
+![outline  fill=false](screenshot_01.jpg) ![solid fill=true](screenshot_02.jpg)
